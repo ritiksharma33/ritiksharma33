@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-[color]?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/ritik-sharma3"><img src="https://img.shields.io/badge/LinkedIn-[color]?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
   <a href="https://github.com/ritiksharma33"><img src="https://img.shields.io/badge/GitHub-[color]?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"></a>
   <a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-[color]?style=for-the-badge&logo=medium&logoColor=white&color=000000" alt="Medium"></a>
 </p>
