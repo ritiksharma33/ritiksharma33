@@ -1,8 +1,5 @@
 # Hi there, I'm Ritik Sharma! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Ritik%20Sharma&subtitle=Full-Stack%20Software%20Engineer%20%7C%20Deep-Tech%20Builder&theme=dark" width="100%" alt="Header Banner" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ritik-sharma3"><img src="https://img.shields.io/badge/LinkedIn-[color]?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
