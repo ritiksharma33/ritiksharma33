@@ -22,7 +22,7 @@ My core interests and specializations include:
 * 🛡️ Systems security and cybersecurity vulnerability assessment.
 * 📈 Enterprise workflow automation and retail inventory systems.
 
-In the past, I've developed platforms ranging from "Advocacy OS" for legal tech to custom Point-of-Sale (POS) software handling automated stock reconciliation. My background spans open-source contributions, wireless networking field studies, and hands-on vulnerability assessments. 
+I've developed platforms ranging from "Advocacy OS" for legal tech to custom Point-of-Sale (POS) software handling automated stock reconciliation. My background spans open-source contributions, wireless networking field studies, and hands-on vulnerability assessments. 
 
 ---
 
