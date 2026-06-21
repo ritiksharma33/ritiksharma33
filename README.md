@@ -11,7 +11,7 @@
 
 ## 📖 Executive Summary
 
-> **By day, I'm  Computer Science engineering student; by night, I'm a full-stack developer and deep-tech builder.** 
+> **By day, I'm  Computer Science engineering student; by night, I'm a full-stack developer and deep tech builder.** 
 
 My current projects explore **agentic AI pipelines**, **legal workflow automation**, and **custom retail architectures** leveraging the LangChain ecosystem. My engineering philosophy revolves around building original products from first principles.
 
