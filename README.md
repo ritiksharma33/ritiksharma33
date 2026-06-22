@@ -1,4 +1,4 @@
-# Hi there, I'm Ritik Sharma! 👋
+u# Hi there, I'm Ritik Sharma! 👋
 
 
 <p align="center">
