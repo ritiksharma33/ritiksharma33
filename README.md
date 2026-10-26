@@ -4,14 +4,17 @@
 <p align="center">
   <a href="https://linkedin.com/in/ritik-sharma3"><img src="https://img.shields.io/badge/LinkedIn-[color]?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn"></a>
   <a href="https://github.com/ritiksharma33"><img src="https://img.shields.io/badge/GitHub-[color]?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub"></a>
-  <a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-[color]?style=for-the-badge&logo=medium&logoColor=white&color=000000" alt="Medium"></a>
+  <a href="mailto:ritiksharma.dev01@gmail.com"><img src="https://img.shields.io/badge/Email-ritiksharma.dev01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://my-resume-sigma-coral.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
+
+> 🔍 **Open to 6-month SDE / AI-ML internships from January 2027** (Bengaluru · Delhi NCR · Remote) — final-year B.Tech CSE @ JNU. Reach me at **ritiksharma.dev01@gmail.com**.
 
 ---
 
 ## 📖 Executive Summary
 
-> **By day, I'm  Computer Science engineering student; by night, I'm a full-stack developer and deep tech builder.** 
+> **By day, I'm a final-year Computer Science student at JNU; by night, I'm a full-stack developer and deep-tech builder.** 
 
 My current projects explore **agentic AI pipelines**, **legal workflow automation**, and **custom retail architectures** leveraging the LangChain ecosystem. My engineering philosophy revolves around building original products from first principles.
 
@@ -23,6 +26,18 @@ My core interests and specializations include:
 * 📈 Enterprise workflow automation and retail inventory systems.
 
 I've developed platforms ranging from "Advocacy OS" for legal tech to custom Point-of-Sale (POS) software handling automated stock reconciliation. My background spans open-source contributions, wireless networking field studies, and hands-on vulnerability assessments. 
+
+---
+
+## ⭐ Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**DocMind AI**](https://github.com/ritiksharma33/Docmind-ai) | Multi-agent RAG over PDFs/DOCX with hybrid BM25 + dense retrieval and a verification agent to cut hallucinations | Python · LangGraph · Gradio |
+| [**LaunchHound**](https://github.com/ritiksharma33/launchhound) | Finds and grades SaaS launch videos on X with an LLM vision pipeline (19 passing tests) | Python · OpenAI Batch API · ffmpeg |
+| [**Remote Browser Engine**](https://github.com/ritiksharma33/mini-TeamViewer) | Streams isolated Chromium (Docker) to a React client over a binary WebSocket protocol via CDP | Node.js · React · WebSocket · Docker |
+| [**Amply POS**](https://github.com/ritiksharma33/Amply) | POS & inventory REST API on AWS EC2 + React Native app (cut inventory checks by 60%) | NestJS · Prisma · PostgreSQL · Expo |
+| [**Local AI Assistant**](https://github.com/ritiksharma33/local-ai-assistant) | Runs small language models fully locally, tuned for 8GB Apple Silicon | Python · local LLMs |
 
 ---
 
